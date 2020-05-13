@@ -20,7 +20,7 @@ minima:
     github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
-    # facebook: jekyll
+    facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
     # linkedin: jekyll
@@ -31,7 +31,7 @@ minima:
     # telegram: jekyll
     # googleplus: +jekyll
     # microdotblog: jekyll
-    # keybase: jekyll
+     keybase: jekyll
 
     # Mastodon instances
     # mastodon:
