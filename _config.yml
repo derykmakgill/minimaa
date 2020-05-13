@@ -16,11 +16,11 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: makgill
+    github:  makgill
     # devto: jekyll
     # dribbble: jekyll
-    facebook: jekyll
+    facebook: derykmakgill
     # flickr:   jekyll
     # instagram: jekyll
     # linkedin: jekyll
@@ -31,7 +31,7 @@ minima:
     # telegram: jekyll
     # googleplus: +jekyll
     # microdotblog: jekyll
-     keybase: jekyll
+     keybase: derek
 
     # Mastodon instances
     # mastodon:
